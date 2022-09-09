@@ -3,7 +3,7 @@
 ## Description
 
 This project is designed as a baseline starting point toward helping me learn and grow as a web developer. My desire to shift into the Tech space as a web developer and beyond, is the underlying motivation for the creation of this page.
-It is a reference guide for key guidlines, notes, ideas, and skills I have learnt, from beginning to end, of the basic website building process. With this I can return to view and update my knowledge of HTML, CSS, JavaScript, and Git. 
+It is a reference guide for key guidlines, notes, ideas, and skills I have learnt, from beginning to end, of the basic website building process. With this I can return to view and update my knowledge of HTML, CSS, JavaScript, and Git/GitHub. 
 
 ## Installation
 
